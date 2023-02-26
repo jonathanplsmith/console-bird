@@ -4,7 +4,7 @@ Flappy bird clone for the terminal implemented using [console-canvas](https://gi
 Installation
 --
 Assuming `gcc`and `make` are installed, simply run `make` to compile.
-The game can then be started by running `/.bird`. \
+The game can then be started by running `./bird`. \
 To ease installation, I have included [console-canvas](https://github.com/jonathanplsmith/console-canvas) already, 
 although the version provided here may be outdated. \
 Please note that only Linux/MacOS is currently supported.
